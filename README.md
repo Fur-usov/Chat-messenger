@@ -1,5 +1,6 @@
 # Chat-messenger
-client server application, with implemention of all features of messenger with secure connection
+Client-server application with implemention of all features of messenger with secure connection.
+Made using the QT framework.
 
 Client features:
 - connection\disconnection from server
